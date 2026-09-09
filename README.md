@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+<div align="center">
 
 # Привет, я Айдын! 👋
 ### Backend Software Engineer | Python & High-Load Architecture
@@ -112,8 +112,3 @@ markdown_content = """<div align="center">
   <i>⭐ Спасибо за визит в мой профиль! Открыт к интересным предложениям и коллаборациям.</i>
 </div>
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("README.md successfully created!")
