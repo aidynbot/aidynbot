@@ -80,7 +80,7 @@ markdown_content = """<div align="center">
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidynAmantai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidynbot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
