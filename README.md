@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aidyn_Amantai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://wa.me/77470000000">
+  <a href="https://wa.me/77473265831">
     <img src="https://img.shields.io/badge/WhatsApp-Написать-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
