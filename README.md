@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aidynbot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidynbot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidynbot&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" height="165" />
 </div>
 
 <br/>
