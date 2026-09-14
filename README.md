@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Backend+Engineer;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Celery;Vector+Search+%7C+Qdrant+%7C+RAG+Architectures;Clean+Architecture+%26+High-Performance+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Backend+Engineer;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Celery;Vector+Search+%7C+Qdrant+%7C+Ollama+%7C+RAG;Clean+Architecture+%26+High-Performance+APIs" alt="Typing SVG" />
 </p>
 
 </div>
@@ -49,9 +49,10 @@
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Async & Vector Search</b></td>
+    <td width="25%"><b>Async & AI Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Vector_DB-0284C7?style=flat-square&logo=vector&logoColor=white" />
       <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&logo=diagram-project&logoColor=white" />
