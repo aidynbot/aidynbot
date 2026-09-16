@@ -72,12 +72,7 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aidynbot&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aidynbot.aidynbot&left_color=gray&right_color=blue" alt="Visitors" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aidynbot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidynbot&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" height="165" />
