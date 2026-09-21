@@ -71,21 +71,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aidynbot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aidynbot&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aidynbot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📬 Связаться со мной
 
 Если у вас есть интересный проект, предложение о работе или желание обсудить архитектуру бэкенда — пишите:
