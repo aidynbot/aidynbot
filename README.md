@@ -54,8 +54,6 @@
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vector_DB-0284C7?style=flat-square&logo=vector&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&logo=diagram-project&logoColor=white" />
     </td>
   </tr>
   <tr>
