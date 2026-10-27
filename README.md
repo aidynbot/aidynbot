@@ -69,28 +69,6 @@
 
 ---
 
-### 📬 Связаться со мной
-
-Если у вас есть интересный проект, предложение о работе или желание обсудить архитектуру бэкенда — пишите:
-
-<p align="left">
-  <a href="https://t.me/AidynAmantai">
-    <img src="https://img.shields.io/badge/Telegram-@AidynAmantai-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aidyn-amantai-b141a0333">
-    <img src="https://img.shields.io/badge/LinkedIn-Aidyn_Amantai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/77473265831">
-    <img src="https://img.shields.io/badge/WhatsApp-Написать-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/a1dyn_amanta1">
-    <img src="https://img.shields.io/badge/Instagram-@a1dyn_amanta1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
 <div align="center">
   <i>⭐ Спасибо за визит в мой профиль! Открыт к интересным предложениям и коллаборациям.</i>
