@@ -1,6 +1,6 @@
 <div align="center">
 
-# Добрый день!
+# Hello!
 ### Backend Software Engineer | Python & High-Load Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidyn-amantai-b141a0333)
